@@ -19,7 +19,7 @@ int main() {
                     cout<<0;
                     k--;   
                 }
-            }else{  //row(even) , 0/p start from 0 
+            }else{  //row(odd) , 0/p start from 0 
                 if(p == 0)
                 {
                     cout<<0;
