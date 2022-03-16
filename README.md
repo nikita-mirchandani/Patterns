@@ -42,3 +42,18 @@ Language : c++
 </pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/four.cpp" >Code</a>
 <br />
+
+<b><ins>***FIVE***</ins></b>
+<pre>
+* * * * * 
+ * * * *  
+  * * *   
+   * *    
+    *     
+   * *    
+  * * *   
+ * * * *  
+* * * * * 
+</pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/five.cpp" >Code</a>
+<br />
