@@ -1,9 +1,9 @@
 # Patterns
 Language : c++
 
-1
-01
-101
-0101
-10101
-<a href="https://www.google.com/" target="_blank">Code</a>
+1<br />
+01<br />
+101<br />
+0101<br />
+10101<br />
+<a href="https://github.com/heerpatell/Patterns/blob/main/one.cpp" >Code</a>
