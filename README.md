@@ -1,7 +1,7 @@
 # Patterns
 Language : c++
 
-<b>***ONE***</b><br />
+<b><u>***ONE***</u></b><br />
 1<br />
 01<br />
 101<br />
@@ -9,7 +9,7 @@ Language : c++
 10101<br />
 <a href="https://github.com/heerpatell/Patterns/blob/main/one.cpp" >Code</a>
 
-<b>***TWO***</b><br />
+<b><u>***TWO***</u></b><br />
 1<br />
 31<br />
 531<br />
