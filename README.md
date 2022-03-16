@@ -21,8 +21,12 @@ Language : c++
 
 <b><ins>***THREE***</ins></b>
 <br />
-* * * * * <br />
-*       * <br />
-*       * <br />
-* * * * * <br />
+* * * * *
+<br />
+*       *
+<br />
+*       *
+<br />
+* * * * * 
+<br />
 <a href="https://github.com/heerpatell/Patterns/blob/main/three.cpp" >Code</a>
