@@ -27,10 +27,9 @@ Language : c++
 *       *
 * * * * * 
 </pre>
-<br />
 <a href="https://github.com/heerpatell/Patterns/blob/main/three.cpp" >Code</a>
 
-<br />
+
 <b><ins>***FOUR***</ins></b>
 <pre>
 *************
@@ -41,5 +40,5 @@ Language : c++
      ***
       *
 </pre>
-<br />
 <a href="https://github.com/heerpatell/Patterns/blob/main/four.cpp" >Code</a>
+<br />
