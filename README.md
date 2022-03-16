@@ -18,3 +18,11 @@ Language : c++
 7531<br />
 97531<br />
 <a href="https://github.com/heerpatell/Patterns/blob/main/two.cpp" >Code</a>
+
+<b><ins>***THREE***</ins></b>
+<br />
+* * * * *<br />
+*       * <br />
+*       *<br />
+* * * * * <br />
+<a href="https://github.com/heerpatell/Patterns/blob/main/three.cpp" >Code</a>
