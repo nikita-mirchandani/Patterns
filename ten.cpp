@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	int r,c;
+    int r;
     cout<<"\nEnter Rows: ";
     cin>>r;
 	for(int i=1;i<=r;i++){
