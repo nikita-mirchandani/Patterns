@@ -157,5 +157,5 @@ A B C D E D C B A
 * *         * * 
 *             *
 </pre>
-<a href="https://github.com/heerpatell/Patterns/blob/main/twelve.cpp" >Code</a>
+<a href="https://github.com/heerpatell/Patterns/blob/main/thirteen.cpp" >Code</a>
 <br />
