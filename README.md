@@ -145,3 +145,17 @@ A B C D E D C B A
 </pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/twelve.cpp" >Code</a>
 <br />
+
+<b><ins>***THIRTEEN(BUTTERFLY PATTERN PRINTING)***</ins></b>
+<pre>
+*             *
+* *         * *
+* * *     * * * 
+* * * * * * * * 
+* * * * * * * *
+* * *     * * *
+* *         * * 
+*             *
+</pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/twelve.cpp" >Code</a>
+<br />
