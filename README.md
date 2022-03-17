@@ -130,3 +130,18 @@ A B C D E D C B A
 <a href="https://github.com/heerpatell/Patterns/blob/main/eleven.cpp" >Code</a>
 <br />
 
+<b><ins>***TWELVE(HOLLOW DIAMOND)***</ins></b>
+<pre>
+    *
+   * *
+  *   *
+ *     *
+*       *
+*       *
+ *     *
+  *   *
+   * *
+    *
+</pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/twelve.cpp" >Code</a>
+<br />
