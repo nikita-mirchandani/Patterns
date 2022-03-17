@@ -127,6 +127,6 @@ A B C D E D C B A
 * *
 *
 </pre>
-<a href="https://github.com/heerpatell/Patterns/blob/main/ten.cpp" >Code</a>
+<a href="https://github.com/heerpatell/Patterns/blob/main/eleven.cpp" >Code</a>
 <br />
 
