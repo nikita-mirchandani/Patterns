@@ -159,3 +159,38 @@ A B C D E D C B A
 </pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/thirteen.cpp" >Code</a>
 <br />
+
+<b><ins>***FOURTEEN(SOLID RHOMBUS)***</ins></b>
+<pre>
+   ****
+  ****
+ ****
+****
+</pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/fourteen.cpp" >Code</a>
+<br />
+
+
+<b><ins>***FIFTEEN(PASCAL TRAIANGLE)***</ins></b>
+<pre>
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
+1 5 10 10 5 1
+1 6 15 20 15 6 1
+</pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/fifteen.cpp" >Code</a>
+<br />
+
+
+
+<b><ins>***SIXTEEN()***</ins></b>
+<pre>
+
+</pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/sixteen.cpp" >Code</a>
+<br />
+
+
