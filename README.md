@@ -196,4 +196,13 @@ A B C D E D C B A
 <a href="https://github.com/heerpatell/Patterns/blob/main/sixteen.cpp" >Code</a>
 <br />
 
+<b><ins>***SIXTEEN()***</ins></b>
+<pre>
+       *
+     * * * 
+   * * * * *
+ * * * * * * * 
+ </pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/seventeen.cpp" >Code</a>
+<br />
 
