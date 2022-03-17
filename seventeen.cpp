@@ -9,7 +9,7 @@ int main()
     {
         for (int j = 1; j <= n; j++) //1 to n 
         {     
-            if(i==n-j+1 || i==n){
+            if(i==n-j+1 || (i==n && j%2!=0)){
                 cout<<"*";
             }else{
                 cout<<" ";
@@ -18,7 +18,7 @@ int main()
 
         for (int j = n+1; j <= (2*n)-1; j++) //nto 2n-1
         {     
-            if(i==j-n+1 || i==n){
+            if(i==j-n+1 || (i==n && j%2!=0)){
                 cout<<"*";
             }else{
                 cout<<" ";
