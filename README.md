@@ -171,7 +171,7 @@ A B C D E D C B A
 <br />
 
 
-<b><ins>***FIFTEEN(PASCAL TRAIANGLE)***</ins></b>
+<b><ins>***FIFTEEN(PASCAL TRIANGLE)***</ins></b>
 <pre>
 1
 1 1
