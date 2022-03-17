@@ -188,7 +188,10 @@ A B C D E D C B A
 
 <b><ins>***SIXTEEN()***</ins></b>
 <pre>
-
+      1 
+    2 3
+  4 5 6
+7 8 9 10
 </pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/sixteen.cpp" >Code</a>
 <br />
