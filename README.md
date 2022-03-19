@@ -246,12 +246,18 @@ A B C D E D C B A
 
 <b><ins>***TWENTYONE(left arrow star)***</ins></b>
 <pre>
-        1
-      2 1
-    3 2 1
-  4 3 2 1
-5 4 3 2 1
- </pre>
+     ******
+    *****
+   ****
+  ***
+ **
+*
+ **
+  ***
+   ****
+    *****
+     ******
+</pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/twentyone.cpp" >Code</a>
 <br />
 
