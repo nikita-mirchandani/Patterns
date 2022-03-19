@@ -311,7 +311,7 @@ A B C D E D C B A
       1 2
         1
  </pre>
-<a href="https://github.com/heerpatell/Patterns/blob/main/twentyfive.cpp>"Code</a>
+<a href="https://github.com/heerpatell/Patterns/blob/main/twentyfive.cpp">Code</a>
 <br />
 
 <b><ins>***TWENTYSIX***</ins></b>
