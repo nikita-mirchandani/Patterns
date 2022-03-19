@@ -271,3 +271,67 @@ A B C D E D C B A
  </pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/twentytwo.cpp" >Code</a>
 <br />
+
+
+<b><ins>***TWENTYTHREE(hollow pyramid)***</ins></b>
+<pre>
+ 4 4 4 4 4 4 4
+ 4 3 3 3 3 3 4
+ 4 3 2 2 2 3 4
+ 4 3 2 1 2 3 4
+ 4 3 2 2 2 3 4
+ 4 3 3 3 3 3 4
+ 4 4 4 4 4 4 4
+ </pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/twentythree.cpp" >Code</a>
+<br />
+
+<b><ins>***TWENTYFOUR(diamond star pattern)***</ins></b>
+<pre>
+    *     
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****   
+   ***
+    *
+ </pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/twentyfour.cpp" >Code</a>
+<br />
+
+
+<b><ins>***TWENTYFIVE***</ins></b>
+<pre>
+1 2 3 4 5
+  1 2 3 4
+    1 2 3
+      1 2
+        1
+ </pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/twentyfive.cpp>"Code</a>
+<br />
+
+<b><ins>***TWENTYSIX***</ins></b>
+<pre>
+        1
+      2 1
+    3 2 1
+  4 3 2 1
+5 4 3 2 1
+ </pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/twentysix.cpp" >Code</a>
+<br />
+
+<b><ins>***TWENTYSEVEN***</ins></b>
+<pre>
+1 1 1 1 1
+1 1 1 1 0
+1 1 1 0 0 
+1 1 0 0 0
+1 0 0 0 0
+ </pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/twentyseven.cpp" >Code</a>
+<br />
