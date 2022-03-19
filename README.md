@@ -209,48 +209,42 @@ A B C D E D C B A
 <a href="https://github.com/heerpatell/Patterns/blob/main/seventeen.cpp" >Code</a>
 <br />
 
-<b><ins>***EIGHTEEN(hollow pyramid)***</ins></b>
+<b><ins>***EIGHTEEN(half pyramid)***</ins></b>
 <pre>
- 4 4 4 4 4 4 4
- 4 3 3 3 3 3 4
- 4 3 2 2 2 3 4
- 4 3 2 1 2 3 4
- 4 3 2 2 2 3 4
- 4 3 3 3 3 3 4
- 4 4 4 4 4 4 4
+1 
+2 3
+4 5 6
+7 8 9 10
  </pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/eighteen.cpp" >Code</a>
 <br />
 
-<b><ins>***NINETEEN(diamond star pattern)***</ins></b>
+<b><ins>***NINETEEN(Inverse half pyramid)***</ins></b>
 <pre>
-    *     
-   ***
-  *****
- *******
-*********
-*********
- *******
-  *****   
-   ***
-    *
+5 5 5 5 5
+4 4 4 4
+3 3 3
+2 2 
+1
  </pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/nineteen.cpp" >Code</a>
 <br />
 
 
-<b><ins>***TWENTY(diamond star pattern)***</ins></b>
+<b><ins>***TWENTY(plus star pattern)***</ins></b>
 <pre>
-1 2 3 4 5
-  1 2 3 4
-    1 2 3
-      1 2
-        1
+   +
+   +
+   +
++++++++
+   +
+   +
+   +
  </pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/twenty.cpp" >Code</a>
 <br />
 
-<b><ins>***TWENTYONE***</ins></b>
+<b><ins>***TWENTYONE(left arrow star)***</ins></b>
 <pre>
         1
       2 1
