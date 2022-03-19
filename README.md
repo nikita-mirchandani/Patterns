@@ -263,13 +263,16 @@ A B C D E D C B A
 
 <b><ins>***TWENTYTWO***</ins></b>
 <pre>
-1 1 1 1 1
-1 1 1 1 0
-1 1 1 0 0 
-1 1 0 0 0
-1 0 0 0 0
+********
+**    **
+* *  * *
+*  **  *
+*  **  *
+* *  * *
+**    **
+********
  </pre>
-<a href="https://github.com/heerpatell/Patterns/blob/main/twentytwo.cpp" >Code</a>
+<a href="https://github.com/heerpatell/Patterns/blob/main/twentyTwo.cpp" >Code</a>
 <br />
 
 
