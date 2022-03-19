@@ -209,3 +209,32 @@ A B C D E D C B A
 <a href="https://github.com/heerpatell/Patterns/blob/main/seventeen.cpp" >Code</a>
 <br />
 
+<b><ins>***EIGHTEEN(hollow pyramid)***</ins></b>
+<pre>
+ 4 4 4 4 4 4 4
+ 4 3 3 3 3 3 4
+ 4 3 2 2 2 3 4
+ 4 3 2 1 2 3 4
+ 4 3 2 2 2 3 4
+ 4 3 3 3 3 3 4
+ 4 4 4 4 4 4 4
+ </pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/eighteen.cpp" >Code</a>
+<br />
+
+<b><ins>***NINETEEN(diamond star pattern)***</ins></b>
+<pre>
+     *     
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****   
+   ***
+    *
+ </pre>
+<a href="https://github.com/heerpatell/Patterns/blob/main/nineteen.cpp" >Code</a>
+<br />
+
