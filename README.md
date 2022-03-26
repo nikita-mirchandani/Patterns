@@ -64,9 +64,9 @@ Language : c++
 
 <b><ins>***SIX***</ins></b>
 <pre>
-* * * *
-      *       *
-   *       *
+      * * *  *
+    *     *
+  *     *
 * * * *
 </pre>
 <a href="https://github.com/heerpatell/Patterns/blob/main/six.cpp" >Code</a>
